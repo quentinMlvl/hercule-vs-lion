@@ -1,6 +1,6 @@
 # The labours of Heracles - First of the labours: the Nemean lion
 
-Prerequisite: clone this _repository_.
+# Based on : https://github.com/WildCodeSchool/remote-js-202203-heracles-poo-1.
 
 ## Groundwork
 
